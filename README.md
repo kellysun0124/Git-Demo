@@ -1,6 +1,7 @@
 # SSH-Demo
-IT 4320\
+
 Kelly Sun
 
-demo git
+demo git \
+IT 4320 FALL 2023
 
